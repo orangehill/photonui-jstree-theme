@@ -1,9 +1,8 @@
 Photon UI jsTree Theme
 =====================
+Since there aren't many jsTree themes out there, we thought we'd make this one freely available.
 
 Photon UI jsTree Theme was created as a part of [Photon UI Responsive Admin Panel Theme](http://themeforest.net/item/photon-ui-responsive-admin-panel-theme/3995029) (available on Themeforest).
-
-Since there aren't many jsTree themes out there, we thought we'd make this one freely available.
 
 ##What is jsTree?
 
