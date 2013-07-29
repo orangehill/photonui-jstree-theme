@@ -303,19 +303,22 @@
   }
   .jstree.jstree-photonui a {
     position: relative;
-    top: 1px;
+    top: 3px;
   }
   .jstree-photonui .jstree-leaf > ins {
     background: transparent;
   }
+  .jstree-photonui .jstree-no-dots .jstree-closed > ins,
   .jstree-photonui .jstree-closed > ins {
-    background-position: -53px -54px;
-  }
-  .jstree-photonui .jstree-open > ins {
     background-position: -53px -75px;
   }
+  .jstree-photonui .jstree-no-dots .jstree-open > ins,
+  .jstree-photonui .jstree-open > ins {
+    background-position: -53px -54px;
+  }
   .jstree.jstree-photonui > ul > li > ins {
-    margin-left: 20px;
+    margin-left: 15px;
+    margin-right: 5px;
   }
   .jstree.jstree-photonui > ul > li > ul > li > ins {
     margin-left: 40px;

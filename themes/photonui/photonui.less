@@ -248,25 +248,28 @@
 
     .jstree.jstree-photonui a{
         position: relative;
-        top: 1px;
+        top: 3px;
     }
     .jstree-photonui .jstree-leaf > ins{
         background: transparent;
     }
 
+    .jstree-photonui .jstree-no-dots .jstree-closed > ins,
     .jstree-photonui .jstree-closed > ins {
-        background-position: -53px -54px;
-    }
-    .jstree-photonui .jstree-open > ins {
         background-position: -53px -75px;
+    }
+
+    .jstree-photonui .jstree-no-dots .jstree-open > ins,
+    .jstree-photonui .jstree-open > ins {
+        background-position: -53px -54px;
     }
 
     // INSET CONTROL
     .jstree.jstree-photonui > ul > li {
         // root level
         & > ins{
-            margin-left: @baseLineHeight;
-            // margin-top: 4px;
+            margin-left: 15px;
+            margin-right: 5px;
         }
 
         // 1st level
