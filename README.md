@@ -16,13 +16,13 @@ For your convenience entire `jsTree pre 1.0 fix2` version is included with this 
 ##Theme Demo
 A demo with five detailed examples is available at [Photon UI jsTree Theme Demo](http://orangehilldev.com/photonui-jstree-theme/demo/) page.
 
-![image](http://orangehilldev.com/photonui-jstree-theme/Photon_UI_jsTree_Theme_Demo.jpg)
+*Desktop Version Screenshot:*
 
-*Desktop Version Screenshot*
+![Desktop Version Screenshot](http://orangehilldev.com/photonui-jstree-theme/Photon_UI_jsTree_Theme_Demo.jpg "Desktop Version Screenshot")
 
-![image](http://orangehilldev.com/photonui-jstree-theme/Photon_UI_jsTree_Theme_Demo_Responsive.jpg)
+*Responsive Version Screenshot:*
 
-*Responsive Version Screenshot*
+![Responsive Version Screenshot](http://orangehilldev.com/photonui-jstree-theme/Photon_UI_jsTree_Theme_Demo_Responsive.jpg "Responsive Version Screenshot")
 
 ##Responsiveness
 Photon UI jsTree Theme is [Responsive](http://en.wikipedia.org/wiki/Responsive_web_design). To see the effect [open the demo](http://orangehilldev.com/photonui-jstree-theme/demo/) and scale a browser window down until the window width is less then 768 pixels. 
