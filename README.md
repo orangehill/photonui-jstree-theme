@@ -17,9 +17,11 @@ For your convenience entire `jsTree pre 1.0 fix2` version is included with this 
 A demo with five detailed examples is available at [Photon UI jsTree Theme Demo](http://orangehilldev.com/photonui-jstree-theme/demo/) page.
 
 ![image](http://orangehilldev.com/photonui-jstree-theme/Photon_UI_jsTree_Theme_Demo.jpg)
+
 *Desktop Version Screenshot*
 
 ![image](http://orangehilldev.com/photonui-jstree-theme/Photon_UI_jsTree_Theme_Demo_Responsive.jpg)
+
 *Responsive Version Screenshot*
 
 ##Responsiveness
